@@ -1,4 +1,4 @@
-## Projeto Arquitetura de Dados
+## Arquitetura de dados Loja Física/E-commerce
 
 Arquitetura de dados com o foco de atender um cliente que possui uma loja física e um e-commerce na nuvem (IAAS). Como o objetivo é investir no e-commerce trabalhamos com o Apache Flume para a coleta de dados com o objetivo de aproveitar seu poder de processamento, efetuamos o armazenamento dos dados em um Data Lake, em seguida enviamos para um "R" para análises, e para finalizar podemos consumir esses dados utilizando o Tableau que via dashboard e app disponibilizarão esses dados para consumo (Real Time).
 
